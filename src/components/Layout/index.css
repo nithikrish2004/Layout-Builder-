@@ -1,0 +1,7 @@
+.layoutContainer {
+  background-color: white;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
